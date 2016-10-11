@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\anim\\app_enter.xml",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\anim\\app_enter.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\anim\\abc_fade_out.xml"
+    }
+]

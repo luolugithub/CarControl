@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left.png",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\drawer_shadow.9.png",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\er.png",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\drawable-hdpi\\er.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_drawer.png",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nfc.png",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\drawable-hdpi\\nfc.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right.png",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    }
+]

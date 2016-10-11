@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_planet.xml",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\layout\\fragment_planet.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera.xml",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\drawer_list_item.xml",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\CarControl\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome.xml",
+        "source": "E:\\AndroidStudio\\CarControl\\app\\src\\main\\res\\layout\\welcome.xml"
+    }
+]
